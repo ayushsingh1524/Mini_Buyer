@@ -213,10 +213,7 @@ npm run test:watch
 4. Add tests for new functionality
 5. Submit a pull request
 
-## License
 
-MIT License - see LICENSE file for details.
-=======
 # Mini_Buyer
 Buyer Lead Intake App built with Next.js &amp; TypeScript for managing real estate leads. Features include lead capture, validation, CSV import/export, search with filters, pagination, history tracking, and secure user-based editing.
 
